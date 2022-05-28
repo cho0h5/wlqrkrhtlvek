@@ -11,5 +11,5 @@ alias wlq="wlqrkrhtlvek"
 ## Usage
 ```bash
 $ wlq
-# 361
+# 173
 ```
